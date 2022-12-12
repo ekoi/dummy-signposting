@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "dummy-signposting-service"
+version = "0.1.0"
+description = ""
+authors = ["Eko Indarto <eko.indarto@dans.knaw.nl>"]
+readme = "README.md"
+include = ["resources/*", "logs/*"]
+packages = [
+    { include = "src" }
+]
+
+[tool.poetry.dependencies]
+python = "^3.10.6"
+uvicorn = "^0.20.0"
+dynaconf = "^3.1.11"
+fastapi = "^0.88.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

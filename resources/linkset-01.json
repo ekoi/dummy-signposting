@@ -1,0 +1,93 @@
+{
+  "linkset": [
+    {
+      "anchor": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+      "cite-as": [
+        {
+          "href": "https://doi.org/10.15497/A675341C-F705-4136-B7C3-B9C14B556186"
+        }
+      ],
+      "describedby": [
+        {
+          "href": "https://citation.crosscite.org/format?style=bibtex&doi=10.15497/A675341C-F705-4136-B7C3-B9C14B556186",
+          "type": "application/x-bibtex"
+        }
+      ],
+      "item": [
+        {
+          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile",
+          "type": "application/octet-stream"
+        },
+        {
+          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver0",
+          "type": "application/octet-stream"
+        },
+        {
+          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver1",
+          "type": "application/octet-stream"
+        },
+        {
+          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver2",
+          "type": "application/octet-stream"
+        },
+        {
+          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver3",
+          "type": "application/octet-stream"
+        }
+      ],
+      "license": {
+        "href": "http://creativecommons.org/licenses/by/4.0/"
+      },
+      "type": [
+        {
+          "href": "https://schema.org/AboutPage"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile",
+      "collection": [
+        {
+          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver0",
+      "collection": [
+        {
+          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver1",
+      "collection": [
+        {
+          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver2",
+      "collection": [
+        {
+          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "type": "text/html"
+        }
+      ]
+    },
+    {
+      "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver3",
+      "collection": [
+        {
+          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "type": "text/html"
+        }
+      ]
+    }
+  ]
+}
