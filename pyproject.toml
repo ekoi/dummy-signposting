@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dummy-signposting-service"
-version = "0.1.0"
+version = "0.1.1"
 description = ""
 authors = ["Eko Indarto <eko.indarto@dans.knaw.nl>"]
 readme = "README.md"

@@ -1,10 +1,10 @@
 {
   "linkset": [
     {
-      "anchor": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+      "anchor": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
       "cite-as": [
         {
-          "href": "https://doi.org/10.15497/A675341C-F705-4136-B7C3-B9C14B556186"
+          "href": "http://hdl.handle.net/11304/76db5f2a-fa16-11e4-8a18-f31aa6f4d448"
         }
       ],
       "describedby": [
@@ -15,24 +15,8 @@
       ],
       "item": [
         {
-          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile",
-          "type": "application/octet-stream"
-        },
-        {
-          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver0",
-          "type": "application/octet-stream"
-        },
-        {
-          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver1",
-          "type": "application/octet-stream"
-        },
-        {
-          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver2",
-          "type": "application/octet-stream"
-        },
-        {
-          "href": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver3",
-          "type": "application/octet-stream"
+          "href": "https://b2share.eudat.eu/api/files/325c6c1e-9d25-40c6-9ff1-68152f546459",
+          "type": "application/pdf"
         }
       ],
       "license": {
@@ -48,7 +32,7 @@
       "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile",
       "collection": [
         {
-          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
           "type": "text/html"
         }
       ]
@@ -57,7 +41,7 @@
       "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver0",
       "collection": [
         {
-          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
           "type": "text/html"
         }
       ]
@@ -66,7 +50,7 @@
       "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver1",
       "collection": [
         {
-          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
           "type": "text/html"
         }
       ]
@@ -75,7 +59,7 @@
       "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver2",
       "collection": [
         {
-          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
           "type": "text/html"
         }
       ]
@@ -84,7 +68,7 @@
       "anchor": "http://localhost:5000/api/files/9d5cb5d6-9a5b-4819-bd45-48e9f7984ed0/myfile-ver3",
       "collection": [
         {
-          "href": "http://localhost:5000/records/7646043f7a784b5597e257e9f5d7450f",
+          "href": "https://b2share.eudat.eu/api/records/2a39a81961894a8da248015ef6fc0ffe",
           "type": "text/html"
         }
       ]
