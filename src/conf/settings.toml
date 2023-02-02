@@ -4,8 +4,8 @@ fastapi_title = "dummy-signposting-service"
 fastapi_description = "This service supports .."
 
 
-resources_path = "/resources"
+resources_path = "./resources"
 
-log_file = "/logs/dsg.log"
+log_file = "./logs/dsg.log"
 log_level = 10
 log_format = "%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s"
