@@ -1,4 +1,4 @@
-FROM python:3.10.6-slim-bullseye
+FROM python:3.11.1-slim-bullseye
 
 ARG VERSION=0.1.1
 
