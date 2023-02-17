@@ -2,8 +2,9 @@ import json
 import logging
 import os
 
+
 import uvicorn
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, HTTPException
 from dynaconf import Dynaconf
 
 import importlib.metadata
@@ -30,8 +31,12 @@ def info():
 
 @app.get('/linkset/{number}/json')
 def get_links(number: str):
-    with open(os.path.join(settings.RESOURCES_PATH, f'{number}.json')) as f:
-        data = json.load(f)
+    try:
+        with open(os.path.join(settings.RESOURCES_PATH, f'{number}.json')) as f:
+            data = json.load(f)
+    except:
+        raise HTTPException(status_code=404, detail=f'linkset "{number}" not found')
+
     return data
 
 
